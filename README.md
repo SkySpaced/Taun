@@ -1,3 +1,15 @@
+# Taunahi
+
+---
+
+<p align="center">
+  <img src="https://shields.io" alt="MC Version">
+  <img src="https://shields.io" alt="Release">
+</p>
+
+# Installation
+
+---
 ### Installing Taunahi
 Fabric 1.21.11. If you don't need to be shown how to install a Forge mod, you can leave this guide and continue.
 
